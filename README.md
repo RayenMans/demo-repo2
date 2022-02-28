@@ -3,5 +3,3 @@
 Some text
 
 # Monaliza
-
-# Subheader
